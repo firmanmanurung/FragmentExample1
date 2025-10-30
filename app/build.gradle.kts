@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "id.ac.polbeng.syamilshahfati.fragmentexample1"
+    namespace = "id.ac.polbeng.firmanmanurung.fragmentexample1"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "id.ac.polbeng.syamilshahfati.fragmentexample1"
+        applicationId = "id.ac.polbeng.firmanmanurung.fragmentexample1"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
